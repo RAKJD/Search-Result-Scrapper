@@ -1,5 +1,4 @@
-
-## Search Result Scrapper
+# Search Result Scrapper
 ### Introduction
 A simple Python-based Search Scraper with a graphical interface using Tkinter. It fetches search results from Bing and displays the title, link, and description in an easy-to-use GUI.
 
